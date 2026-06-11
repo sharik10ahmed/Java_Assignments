@@ -1,4 +1,4 @@
-;public class data {
+public class data {
     public static void main(String[] args){
         String Name = "Sharik Ahmed";
         int age = 20;
