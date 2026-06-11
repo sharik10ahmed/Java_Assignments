@@ -3,7 +3,7 @@ package Day_4;
 import java.util.*;
 
 public class if_else{
-    public static void main(){
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter your age-> ");
