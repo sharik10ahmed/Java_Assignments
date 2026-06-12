@@ -1,0 +1,19 @@
+package Day_3;
+
+import java.util.*;
+
+public class Odd_Even {
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a number-> ");
+        int num = scanner.nextInt();
+
+        if (num%2==0){
+            System.out.printf("%d is Even",num);
+        }
+        else{
+            System.out.printf("%d is Odd",num);
+        }
+        scanner.close();
+    }
+}
