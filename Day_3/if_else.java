@@ -16,5 +16,7 @@ public class if_else{
             System.out.println("Minor");
         }
 
+        sc.close();
+
     }
 }

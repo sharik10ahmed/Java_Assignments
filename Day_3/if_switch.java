@@ -21,5 +21,7 @@ public class if_switch{
             System.out.println("Bonjour");
         else
             System.out.println("Invalid input (Choose from menu)");
+
+        sc.close();
     }
 }
