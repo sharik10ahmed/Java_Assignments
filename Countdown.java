@@ -1,4 +1,4 @@
-public class newjava {
+public class Countdown {
     // Recursive method to print numbers descending
     public static void printCountdown(int n) {
         // Base case: stop when n hits 0
