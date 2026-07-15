@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<hr/>
+<hr/> 
 
 ## 📖 About The Repository
 
